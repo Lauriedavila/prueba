@@ -1,0 +1,79 @@
+.h1 {
+    color: red;
+}
+.milanesas {
+    color:violet;
+}
+div {
+    width:400px; height:150px;
+    background-color:#ad6be3;
+    border: 4px dotted;
+    padding:40px;
+    margin:50px;
+    display: inline-table;
+    text-align:center;
+}
+div p {
+    display: table-cell;
+    vertical-align:middle;
+    font-family: impact;
+    font-size:32px;
+    text-transform:
+    uppercase;
+    color:#330757;
+}
+
+.azul {
+    background-color: blue;
+}
+.rojo {
+    background-color: red;
+}
+.gris {
+    background-color: grey;
+}
+.verde {
+    background-color: green;
+}
+
+.dia1{
+    color: red;
+    font-size:32px;
+}
+.horarios1 {
+    color: red;
+    font-size:29px;
+}
+
+.dia2 {
+    color: aquamarine;
+    font-size:32px;
+}
+.horarios2{ 
+    color: pink;
+    font-size:29px;
+}
+.dia3{
+    color: green;
+    font-size:32px;
+}
+.horarios3{
+    color: green;
+    font-size:29px;
+}
+.dia4{
+    color: aqua;
+    font-size:32px;
+}
+.horarios4{
+    color: aqua;
+    font-size:29px;
+}
+.dia5{
+    color: blue;
+    font-size:32px;
+}
+.horarios5{
+    color: blue;
+    font-size:29px;
+}
