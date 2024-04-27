@@ -37,43 +37,43 @@ div p {
 }
 
 .dia1{
-    color: red;
+    background-color: red;
     font-size:32px;
 }
 .horarios1 {
-    color: red;
+    background-color: red;
     font-size:29px;
 }
 
 .dia2 {
-    color: aquamarine;
+    background-color: aquamarine;
     font-size:32px;
 }
 .horarios2{ 
-    color: pink;
+    background-color: aquamarine;
     font-size:29px;
 }
 .dia3{
-    color: green;
+    background-color: green;
     font-size:32px;
 }
 .horarios3{
-    color: green;
+    background-color: green;
     font-size:29px;
 }
 .dia4{
-    color: aqua;
+    background-color: aqua;
     font-size:32px;
 }
 .horarios4{
-    color: aqua;
+    background-color: aqua;
     font-size:29px;
 }
 .dia5{
-    color: blue;
+    background-color: blue;
     font-size:32px;
 }
 .horarios5{
-    color: blue;
+    background-color: blue;
     font-size:29px;
 }
