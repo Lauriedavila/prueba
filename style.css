@@ -39,41 +39,73 @@ div p {
 .dia1{
     background-color: red;
     font-size:32px;
+    font-weight: bold;
 }
 .horarios1 {
     background-color: red;
     font-size:29px;
+    font-style: italic;
 }
 
 .dia2 {
     background-color: aquamarine;
     font-size:32px;
+    font-weight: bold;
 }
 .horarios2{ 
     background-color: aquamarine;
     font-size:29px;
+    font-style: italic;
 }
 .dia3{
     background-color: green;
     font-size:32px;
+    font-weight: bold;
 }
 .horarios3{
     background-color: green;
     font-size:29px;
+    font-style: italic;
 }
 .dia4{
     background-color: aqua;
     font-size:32px;
+    font-weight: bold;
 }
 .horarios4{
     background-color: aqua;
     font-size:29px;
+    font-style: italic;
 }
 .dia5{
     background-color: blue;
     font-size:32px;
+    font-weight: bold;
 }
 .horarios5{
     background-color: blue;
     font-size:29px;
+    font-style: italic;
+}
+header {
+    background-color:pink;
+    font-size: 0.9em;
+    font-size: 2.5ex;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+footer {
+    background-color: green;
+    font-size: 0.9em;
+    font-size: 2.5ex;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+form action {
+    border: 2px solid #ccc;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: red;
 }
