@@ -114,13 +114,7 @@
               <div class="carousel-item active">
                 <img src="../3.jpg" class="d-block w-100" alt="messi">
               </div>
-              <div class="carousel-item">
-                <img src="..." class="d-block w-100" alt="...">
-              </div>
-              <div class="carousel-item">
-                <img src="..." class="d-block w-100" alt="...">
-              </div>
-            </div>
+              
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Previous</span>
@@ -130,6 +124,29 @@
               <span class="visually-hidden">Next</span>
             </button>
           </div>
+          
+        .pedido {
+            margin: 5px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Simulador de Pedidos</h1>
+    <form id="pedidoForm">
+        <label for="menu">Elija su menú:</label>
+        <select id="menu" name="menu">
+            <option value="carne">Carne</option>
+            <option value="pescado">Pescado</option>
+            <option value="verdura">Verdura</option>
+        </select>
+        <button type="submit">Agregar Pedido</button>
+    </form>
+    <div id="pedidos">
+        <h2>Pedidos Realizados:</h2>
+        <div id="listaPedidos"></div>
+    </div>
 </main>
 <div class="contenedor">
                 <div>Uno</div>
